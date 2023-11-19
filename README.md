@@ -9,3 +9,6 @@ https://github.com/siddhuR/Mooc-Machine-Learning-Specialization-solutions/blob/B
 
 Stanford- Machine Learning Specialization coursera Solutions link:
 https://github.com/siddhuR/Mooc-Machine-Learning-Specialization-solutions/tree/standford-Predictive-Analytics-mooc-solutions
+
+IBM Machine Learning Professional Certificate coursera Solutions link:
+https://github.com/siddhuR/Mooc-solutions-predictive-Analytics-and-Bigdata/tree/IBM-Machine-Learning-Professional-Certificate-moocs-solutions
